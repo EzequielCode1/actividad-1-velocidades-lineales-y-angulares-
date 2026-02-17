@@ -18,10 +18,9 @@ Calcular simbólicamente la velocidad lineal y angular del efector final mediant
 - MATLAB (Symbolic Math Toolbox)
 
 ## Contenido
-- `/docs` → explicación teórica y reporte
-- `/matlab` → código MATLAB
-- `/docs/figuras` → diagramas e ilustraciones
-
+- explicación teórica y reporte
+- código MATLAB
+  
 ## Autor
 Ezequiel Luna Trejo  
 
